@@ -1,5 +1,5 @@
 # **Predicting Homelessness Rates in California**  
-**DATASCI 112 Final Project**
+By Chloe Hughes and David Eduardo Espinoza Sanchez
 
 This repository contains our **data analysis, exploration, and machine learning modeling** for predicting homelessness rates across counties in California. We investigate key socioeconomic factors such as **housing costs, political affiliation, racial demographics, and education levels** to build predictive models.
 

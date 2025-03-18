@@ -4,9 +4,9 @@
 This repository contains our **data analysis, exploration, and machine learning modeling** for predicting homelessness rates across counties in California. We investigate key socioeconomic factors such as **housing costs, political affiliation, racial demographics, and education levels** to build predictive models.
 
 ## **Project Structure**
-1. **[Pre-processing](1. pre-processing_ DATASCI 112-HOMELESS RATES IN CALIFORNIA - Colab.pdf)** – Data collection, cleaning, and feature engineering.
-2. **[Data Exploration](2. Data Exploration_ DATASCI112 FINAL PROJECT - Colab.pdf)** – Exploratory analysis of homelessness trends.
-3. **[Model Predictions](3. Model Predictions_ DATASCI 112 FINAL PROJECT - Colab.pdf)** – Machine learning models to predict homelessness rates.
+1. **[Pre-processing]** – Data collection, cleaning, and feature engineering.
+2. **[Data Exploration]** – Exploratory analysis of homelessness trends.
+3. **[Model Predictions]** – Machine learning models to predict homelessness rates.
 
 ---
 
